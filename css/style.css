@@ -1,0 +1,89 @@
+ *{
+    margin: 0;
+    padding: 0;
+ }
+
+header{
+    background-color: blue;
+    text-align: center;
+    color: aliceblue;
+    height: 100px;
+}
+.banner{
+    height: 400px;
+    background-color: brown;
+    text-align: center;
+    font-size: 50px;
+    color: aliceblue;
+}
+
+.service{
+display: flex;
+}
+.left-box{
+height: 300px;
+width: 50%;
+background-color: darkgreen;
+text-align: center;
+color: aliceblue;
+}
+.right-box{
+    height: 300px;
+    width: 50%;
+    background-color:darkgoldenrod ;
+    text-align: center;
+    color: aliceblue;
+    }
+
+    .feature{
+      display: flex;
+    }
+
+    .feature1{
+        width: 33.3%;
+        height: 200px;
+        background-color: blueviolet;
+        text-align: center;
+        color: aliceblue;
+    }
+       
+    .feature2{
+        width: 33.3%;
+        height: 200px;
+        background-color: rgb(226, 43, 58);
+        text-align: center;
+        color: aliceblue;
+    }
+    
+    .feature3{
+        color: rgb(2, 50, 92);
+
+    }
+
+.ad{
+    display: flex;
+}
+
+.left-block{
+    width: 70%;
+    height: 150px;
+    background-color: aqua;
+    text-align: center;
+    color: black;
+}
+
+
+.right-block{ 
+    width: 30%;
+    height: 150px;
+    background-color: purple;
+    text-align: center;
+    color: white;
+}
+
+footer{
+    background-color: black;
+    text-align: center;
+    color: aliceblue;
+    font-size: 20px;
+}
